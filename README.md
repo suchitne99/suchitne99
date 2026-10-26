@@ -259,3 +259,5 @@ In `alignment-harness`, position bias is neutralized by evaluating $(A, B)$ and 
 <!-- sync 2026-10-15 slot 1 -->
 
 <!-- sync 2026-10-20 slot 0 -->
+
+<!-- sync 2026-10-26 slot 2 -->
